@@ -1,4 +1,4 @@
 # gcm-project
-#Função:Aluno   
-#Nome:Tiago Feliciano Floriano
-#Faculdade: FIT
+#função:Aluno   
+#nome:Tiago Feliciano Floriano
+#faculdade: FIT
